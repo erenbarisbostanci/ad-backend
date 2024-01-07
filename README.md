@@ -92,3 +92,8 @@ Yazılar satıra sığmadığında alt satıra geçtiğin göstermek için yazı
 <b>Output:</b>
 ![](./images/ad_output.png)
 
+
+## Task 3:
+
+En başta bahsettiğim gibi Azure'da deploy ettim. Backend için Flask kullandım. HTML'den PDF'e ve PDF'ten PNG'ye çevirme işlemminin windows cihazlarda çalışabilmesi için gerekli olan DLL dosyalarını libs klasörü altına ekledim. program çalışırken kendisi otomatik ordan algılamaktadır.
+
